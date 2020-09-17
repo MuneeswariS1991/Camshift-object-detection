@@ -1,0 +1,2 @@
+# Camshift-object-detection
+www.geeksforgeeks.org/track-objects-with... Camshift or we can say Continuously Adaptive Meanshift is an enhanced version of the meanshift algorithm which provides more accuracy and robustness to the model. With the help of Camshift algorithm, the size of the window keeps updating when the tracking window tries to converge. The tracking is done by using the color information of the object.
